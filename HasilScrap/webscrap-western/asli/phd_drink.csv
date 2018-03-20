@@ -1,0 +1,10 @@
+﻿web-scraper-order,web-scraper-start-url,nama,deskripsi,foto-src,harga
+"1520907012-64","https://www.phd.co.id/en/drinks","Aqua 330 mL","","https://s3-ap-southeast-1.amazonaws.com/pizzahutidtest/menu/drinks_aqua.png","Rp 6,000"
+"1520907012-57","https://www.phd.co.id/en/drinks","Cappucino Jelly","Nikmatnya cappuccino dingin dengan jelly yang kenyal","https://static.phd.co.id/menu/Cappucino_Jelly_Menu_item_new.png","Rp 18,000"
+"1520907012-61","https://www.phd.co.id/en/drinks","Lemon Tea","Teh lemon segar yang siap diminum kapan saja dan dimana saja","https://static.phd.co.id/menu/PHD_id-Lemon_Tea_.png","Rp 12,000"
+"1520907012-59","https://www.phd.co.id/en/drinks","Melon Lemonade","Uniknya paduan rasa melon yang manis dan lemonade segar","https://static.phd.co.id/menu/PHD_id-Melon_Lemonade.png","Rp 12,000"
+"1520907012-62","https://www.phd.co.id/en/drinks","Pepsi Cola 450 mL","","https://s3-ap-southeast-1.amazonaws.com/pizzahutidtest/menu/drinks_pepsi_cola.png","Rp 8,000"
+"1520907012-58","https://www.phd.co.id/en/drinks","Goji Berry","","https://pizzahutid.s3.amazonaws.com/menu/Goji-Berry_Menu-item-new.png","Rp 12,000"
+"1520907012-60","https://www.phd.co.id/en/drinks","Orange Drinks","Teguk kesegaran jeruk yang pas buat kapan saja","https://static.phd.co.id/menu/PHD_id-Orange_Drinks.png","Rp 12,000"
+"1520907012-56","https://www.phd.co.id/en/drinks","Sea Salt Caramel","","https://pizzahutid.s3.amazonaws.com/menu/Sea-Salt-Caramel_Menu-item-new.png","Rp 18,000"
+"1520907012-63","https://www.phd.co.id/en/drinks","Pepsi Cola 1.75 L","","https://static.phd.co.id/menu/Pepsi-1.75-Liter_.png","Rp 18,000"
