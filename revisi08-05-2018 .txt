@@ -1,0 +1,11 @@
+1. Pertimbangkan pilih meja di awal untuk hemat biaya foodcourt
+2. Login dibagi jadi dua (guest, dan user)
+3. Mockup pilih makanan tambah scroll
+4. Nomor table dan nama pengunjung di tampilkan
+5. Bisa tambah order ketika selesai memesan
+6. Isi struk ditampilkan
+7. Full screen
+8. Desain diselaraskan
+9. Integrasi git netbeans
+10. Istilah occupied diganti
+11. Awal didata nomor tablenya
