@@ -86,7 +86,7 @@ public class MenuUtama extends javax.swing.JFrame {
 
         jPanel1.add(jPanel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(650, 0, 730, 770));
 
-        jLabel2.setIcon(new javax.swing.ImageIcon("D:\\Kuliah\\Proyek_1\\Mockup\\BGMainMenu.jpg")); // NOI18N
+        jLabel2.setIcon(new javax.swing.ImageIcon("D:\\Kuliah\\Teknik_Pemrogaman\\JavaCode\\foodCourt\\src\\foodcourt\\BGMainMenu.jpg")); // NOI18N
         jLabel2.setText("jLabel2");
         jPanel1.add(jLabel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 910, 770));
 
