@@ -255,7 +255,10 @@ public class Pesan extends javax.swing.JFrame {
 
         btn_exit.setFont(new java.awt.Font("Tahoma", 0, 24)); // NOI18N
         btn_exit.setForeground(new java.awt.Color(255, 255, 255));
+<<<<<<< HEAD
+=======
         btn_exit.setIcon(new javax.swing.ImageIcon(getClass().getResource("/foodcourt/images/icons8_Back_25px.png"))); // NOI18N
+>>>>>>> ca331d1aa00296f8d48c658202d28f024c3e9eaf
         btn_exit.setText("  Back");
         btn_exit.setAutoscrolls(true);
         btn_exit.addMouseListener(new java.awt.event.MouseAdapter() {
