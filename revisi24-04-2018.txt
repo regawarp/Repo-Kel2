@@ -1,0 +1,5 @@
+Meu pesan makanan:
+ - space kosong diisi iklan/promo
+ - catatan untuk setiap makanan
+Meja
+ - Nomor meja
