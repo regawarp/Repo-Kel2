@@ -60,25 +60,45 @@ public class Table extends javax.swing.JFrame {
         jPanel13 = new javax.swing.JPanel();
         jPanel14 = new javax.swing.JPanel();
         pTable1 = new javax.swing.JPanel();
+        jLabel1 = new javax.swing.JLabel();
         pTable2 = new javax.swing.JPanel();
+        jLabel4 = new javax.swing.JLabel();
         pTable3 = new javax.swing.JPanel();
+        jLabel5 = new javax.swing.JLabel();
         pTable4 = new javax.swing.JPanel();
+        jLabel6 = new javax.swing.JLabel();
         pTable5 = new javax.swing.JPanel();
+        jLabel7 = new javax.swing.JLabel();
         pTable6 = new javax.swing.JPanel();
+        jLabel22 = new javax.swing.JLabel();
         pTable7 = new javax.swing.JPanel();
+        jLabel17 = new javax.swing.JLabel();
         pTable8 = new javax.swing.JPanel();
+        jLabel14 = new javax.swing.JLabel();
         pTable9 = new javax.swing.JPanel();
+        jLabel13 = new javax.swing.JLabel();
         pTable10 = new javax.swing.JPanel();
+        jLabel8 = new javax.swing.JLabel();
         pTable11 = new javax.swing.JPanel();
+        jLabel21 = new javax.swing.JLabel();
         pTable12 = new javax.swing.JPanel();
+        jLabel18 = new javax.swing.JLabel();
         pTable13 = new javax.swing.JPanel();
+        jLabel15 = new javax.swing.JLabel();
         pTable14 = new javax.swing.JPanel();
+        jLabel12 = new javax.swing.JLabel();
         pTable15 = new javax.swing.JPanel();
+        jLabel9 = new javax.swing.JLabel();
         pTable16 = new javax.swing.JPanel();
+        jLabel20 = new javax.swing.JLabel();
         pTable17 = new javax.swing.JPanel();
+        jLabel19 = new javax.swing.JLabel();
         pTable18 = new javax.swing.JPanel();
+        jLabel16 = new javax.swing.JLabel();
         pTable19 = new javax.swing.JPanel();
+        jLabel11 = new javax.swing.JLabel();
         pTable20 = new javax.swing.JPanel();
+        jLabel10 = new javax.swing.JLabel();
         background = new javax.swing.JPanel();
         jPanel2 = new javax.swing.JPanel();
         jPanel3 = new javax.swing.JPanel();
@@ -298,300 +318,480 @@ public class Table extends javax.swing.JFrame {
 
         pTable1.setBackground(new java.awt.Color(118, 255, 3));
 
+        jLabel1.setFont(new java.awt.Font("Segoe UI Light", 0, 18)); // NOI18N
+        jLabel1.setText("1");
+
         javax.swing.GroupLayout pTable1Layout = new javax.swing.GroupLayout(pTable1);
         pTable1.setLayout(pTable1Layout);
         pTable1Layout.setHorizontalGroup(
             pTable1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 60, Short.MAX_VALUE)
+            .addGroup(pTable1Layout.createSequentialGroup()
+                .addGap(21, 21, 21)
+                .addComponent(jLabel1)
+                .addContainerGap(30, Short.MAX_VALUE))
         );
         pTable1Layout.setVerticalGroup(
             pTable1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 60, Short.MAX_VALUE)
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, pTable1Layout.createSequentialGroup()
+                .addContainerGap(24, Short.MAX_VALUE)
+                .addComponent(jLabel1)
+                .addContainerGap())
         );
 
         getContentPane().add(pTable1, new org.netbeans.lib.awtextra.AbsoluteConstraints(360, 240, 60, 60));
 
         pTable2.setBackground(new java.awt.Color(0, 204, 0));
 
+        jLabel4.setFont(new java.awt.Font("Segoe UI Light", 0, 18)); // NOI18N
+        jLabel4.setText("2");
+
         javax.swing.GroupLayout pTable2Layout = new javax.swing.GroupLayout(pTable2);
         pTable2.setLayout(pTable2Layout);
         pTable2Layout.setHorizontalGroup(
             pTable2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 60, Short.MAX_VALUE)
+            .addGroup(pTable2Layout.createSequentialGroup()
+                .addGap(22, 22, 22)
+                .addComponent(jLabel4)
+                .addContainerGap(29, Short.MAX_VALUE))
         );
         pTable2Layout.setVerticalGroup(
             pTable2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 60, Short.MAX_VALUE)
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, pTable2Layout.createSequentialGroup()
+                .addContainerGap(24, Short.MAX_VALUE)
+                .addComponent(jLabel4)
+                .addContainerGap())
         );
 
         getContentPane().add(pTable2, new org.netbeans.lib.awtextra.AbsoluteConstraints(510, 240, -1, -1));
 
         pTable3.setBackground(new java.awt.Color(0, 204, 0));
 
+        jLabel5.setFont(new java.awt.Font("Segoe UI Light", 0, 18)); // NOI18N
+        jLabel5.setText("3");
+
         javax.swing.GroupLayout pTable3Layout = new javax.swing.GroupLayout(pTable3);
         pTable3.setLayout(pTable3Layout);
         pTable3Layout.setHorizontalGroup(
             pTable3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 60, Short.MAX_VALUE)
+            .addGroup(pTable3Layout.createSequentialGroup()
+                .addGap(24, 24, 24)
+                .addComponent(jLabel5)
+                .addContainerGap(27, Short.MAX_VALUE))
         );
         pTable3Layout.setVerticalGroup(
             pTable3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 60, Short.MAX_VALUE)
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, pTable3Layout.createSequentialGroup()
+                .addContainerGap(24, Short.MAX_VALUE)
+                .addComponent(jLabel5)
+                .addContainerGap())
         );
 
         getContentPane().add(pTable3, new org.netbeans.lib.awtextra.AbsoluteConstraints(650, 240, -1, -1));
 
         pTable4.setBackground(new java.awt.Color(0, 204, 0));
 
+        jLabel6.setFont(new java.awt.Font("Segoe UI Light", 0, 18)); // NOI18N
+        jLabel6.setText("4");
+
         javax.swing.GroupLayout pTable4Layout = new javax.swing.GroupLayout(pTable4);
         pTable4.setLayout(pTable4Layout);
         pTable4Layout.setHorizontalGroup(
             pTable4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 60, Short.MAX_VALUE)
+            .addGroup(pTable4Layout.createSequentialGroup()
+                .addGap(25, 25, 25)
+                .addComponent(jLabel6)
+                .addContainerGap(26, Short.MAX_VALUE))
         );
         pTable4Layout.setVerticalGroup(
             pTable4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 60, Short.MAX_VALUE)
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, pTable4Layout.createSequentialGroup()
+                .addContainerGap(24, Short.MAX_VALUE)
+                .addComponent(jLabel6)
+                .addContainerGap())
         );
 
         getContentPane().add(pTable4, new org.netbeans.lib.awtextra.AbsoluteConstraints(800, 240, -1, -1));
 
         pTable5.setBackground(new java.awt.Color(0, 204, 0));
 
+        jLabel7.setFont(new java.awt.Font("Segoe UI Light", 0, 18)); // NOI18N
+        jLabel7.setText("5");
+
         javax.swing.GroupLayout pTable5Layout = new javax.swing.GroupLayout(pTable5);
         pTable5.setLayout(pTable5Layout);
         pTable5Layout.setHorizontalGroup(
             pTable5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 60, Short.MAX_VALUE)
+            .addGroup(pTable5Layout.createSequentialGroup()
+                .addGap(23, 23, 23)
+                .addComponent(jLabel7)
+                .addContainerGap(28, Short.MAX_VALUE))
         );
         pTable5Layout.setVerticalGroup(
             pTable5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 60, Short.MAX_VALUE)
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, pTable5Layout.createSequentialGroup()
+                .addContainerGap(24, Short.MAX_VALUE)
+                .addComponent(jLabel7)
+                .addContainerGap())
         );
 
         getContentPane().add(pTable5, new org.netbeans.lib.awtextra.AbsoluteConstraints(950, 240, -1, -1));
 
         pTable6.setBackground(new java.awt.Color(0, 204, 0));
 
+        jLabel22.setFont(new java.awt.Font("Segoe UI Light", 0, 18)); // NOI18N
+        jLabel22.setText("6");
+
         javax.swing.GroupLayout pTable6Layout = new javax.swing.GroupLayout(pTable6);
         pTable6.setLayout(pTable6Layout);
         pTable6Layout.setHorizontalGroup(
             pTable6Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 60, Short.MAX_VALUE)
+            .addGroup(pTable6Layout.createSequentialGroup()
+                .addGap(25, 25, 25)
+                .addComponent(jLabel22)
+                .addContainerGap(26, Short.MAX_VALUE))
         );
         pTable6Layout.setVerticalGroup(
             pTable6Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 60, Short.MAX_VALUE)
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, pTable6Layout.createSequentialGroup()
+                .addContainerGap(24, Short.MAX_VALUE)
+                .addComponent(jLabel22)
+                .addContainerGap())
         );
 
         getContentPane().add(pTable6, new org.netbeans.lib.awtextra.AbsoluteConstraints(360, 380, 60, 60));
 
         pTable7.setBackground(new java.awt.Color(0, 204, 0));
 
+        jLabel17.setFont(new java.awt.Font("Segoe UI Light", 0, 18)); // NOI18N
+        jLabel17.setText("7");
+
         javax.swing.GroupLayout pTable7Layout = new javax.swing.GroupLayout(pTable7);
         pTable7.setLayout(pTable7Layout);
         pTable7Layout.setHorizontalGroup(
             pTable7Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 60, Short.MAX_VALUE)
+            .addGroup(pTable7Layout.createSequentialGroup()
+                .addGap(24, 24, 24)
+                .addComponent(jLabel17)
+                .addContainerGap(27, Short.MAX_VALUE))
         );
         pTable7Layout.setVerticalGroup(
             pTable7Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 60, Short.MAX_VALUE)
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, pTable7Layout.createSequentialGroup()
+                .addContainerGap(24, Short.MAX_VALUE)
+                .addComponent(jLabel17)
+                .addContainerGap())
         );
 
         getContentPane().add(pTable7, new org.netbeans.lib.awtextra.AbsoluteConstraints(510, 380, -1, -1));
 
         pTable8.setBackground(new java.awt.Color(0, 204, 0));
 
+        jLabel14.setFont(new java.awt.Font("Segoe UI Light", 0, 18)); // NOI18N
+        jLabel14.setText("8");
+
         javax.swing.GroupLayout pTable8Layout = new javax.swing.GroupLayout(pTable8);
         pTable8.setLayout(pTable8Layout);
         pTable8Layout.setHorizontalGroup(
             pTable8Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 60, Short.MAX_VALUE)
+            .addGroup(pTable8Layout.createSequentialGroup()
+                .addGap(23, 23, 23)
+                .addComponent(jLabel14)
+                .addContainerGap(28, Short.MAX_VALUE))
         );
         pTable8Layout.setVerticalGroup(
             pTable8Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 60, Short.MAX_VALUE)
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, pTable8Layout.createSequentialGroup()
+                .addContainerGap(24, Short.MAX_VALUE)
+                .addComponent(jLabel14)
+                .addContainerGap())
         );
 
         getContentPane().add(pTable8, new org.netbeans.lib.awtextra.AbsoluteConstraints(650, 380, -1, -1));
 
         pTable9.setBackground(new java.awt.Color(0, 204, 0));
 
+        jLabel13.setFont(new java.awt.Font("Segoe UI Light", 0, 18)); // NOI18N
+        jLabel13.setText("9");
+
         javax.swing.GroupLayout pTable9Layout = new javax.swing.GroupLayout(pTable9);
         pTable9.setLayout(pTable9Layout);
         pTable9Layout.setHorizontalGroup(
             pTable9Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 60, Short.MAX_VALUE)
+            .addGroup(pTable9Layout.createSequentialGroup()
+                .addGap(25, 25, 25)
+                .addComponent(jLabel13)
+                .addContainerGap(26, Short.MAX_VALUE))
         );
         pTable9Layout.setVerticalGroup(
             pTable9Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 60, Short.MAX_VALUE)
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, pTable9Layout.createSequentialGroup()
+                .addContainerGap(24, Short.MAX_VALUE)
+                .addComponent(jLabel13)
+                .addContainerGap())
         );
 
         getContentPane().add(pTable9, new org.netbeans.lib.awtextra.AbsoluteConstraints(800, 380, -1, -1));
 
         pTable10.setBackground(new java.awt.Color(0, 204, 0));
 
+        jLabel8.setFont(new java.awt.Font("Segoe UI Light", 0, 18)); // NOI18N
+        jLabel8.setText("10");
+
         javax.swing.GroupLayout pTable10Layout = new javax.swing.GroupLayout(pTable10);
         pTable10.setLayout(pTable10Layout);
         pTable10Layout.setHorizontalGroup(
             pTable10Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 60, Short.MAX_VALUE)
+            .addGroup(pTable10Layout.createSequentialGroup()
+                .addGap(23, 23, 23)
+                .addComponent(jLabel8)
+                .addContainerGap(28, Short.MAX_VALUE))
         );
         pTable10Layout.setVerticalGroup(
             pTable10Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 60, Short.MAX_VALUE)
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, pTable10Layout.createSequentialGroup()
+                .addContainerGap(24, Short.MAX_VALUE)
+                .addComponent(jLabel8)
+                .addContainerGap())
         );
 
         getContentPane().add(pTable10, new org.netbeans.lib.awtextra.AbsoluteConstraints(950, 380, -1, -1));
 
         pTable11.setBackground(new java.awt.Color(0, 204, 0));
 
+        jLabel21.setFont(new java.awt.Font("Segoe UI Light", 0, 18)); // NOI18N
+        jLabel21.setText("11");
+
         javax.swing.GroupLayout pTable11Layout = new javax.swing.GroupLayout(pTable11);
         pTable11.setLayout(pTable11Layout);
         pTable11Layout.setHorizontalGroup(
             pTable11Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 60, Short.MAX_VALUE)
+            .addGroup(pTable11Layout.createSequentialGroup()
+                .addGap(26, 26, 26)
+                .addComponent(jLabel21)
+                .addContainerGap(16, Short.MAX_VALUE))
         );
         pTable11Layout.setVerticalGroup(
             pTable11Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 60, Short.MAX_VALUE)
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, pTable11Layout.createSequentialGroup()
+                .addContainerGap(24, Short.MAX_VALUE)
+                .addComponent(jLabel21)
+                .addContainerGap())
         );
 
         getContentPane().add(pTable11, new org.netbeans.lib.awtextra.AbsoluteConstraints(360, 500, 60, 60));
 
         pTable12.setBackground(new java.awt.Color(0, 204, 0));
 
+        jLabel18.setFont(new java.awt.Font("Segoe UI Light", 0, 18)); // NOI18N
+        jLabel18.setText("12");
+
         javax.swing.GroupLayout pTable12Layout = new javax.swing.GroupLayout(pTable12);
         pTable12.setLayout(pTable12Layout);
         pTable12Layout.setHorizontalGroup(
             pTable12Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 60, Short.MAX_VALUE)
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, pTable12Layout.createSequentialGroup()
+                .addContainerGap(28, Short.MAX_VALUE)
+                .addComponent(jLabel18)
+                .addGap(23, 23, 23))
         );
         pTable12Layout.setVerticalGroup(
             pTable12Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 60, Short.MAX_VALUE)
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, pTable12Layout.createSequentialGroup()
+                .addContainerGap(24, Short.MAX_VALUE)
+                .addComponent(jLabel18)
+                .addContainerGap())
         );
 
         getContentPane().add(pTable12, new org.netbeans.lib.awtextra.AbsoluteConstraints(510, 500, -1, -1));
 
         pTable13.setBackground(new java.awt.Color(0, 204, 0));
 
+        jLabel15.setFont(new java.awt.Font("Segoe UI Light", 0, 18)); // NOI18N
+        jLabel15.setText("13");
+
         javax.swing.GroupLayout pTable13Layout = new javax.swing.GroupLayout(pTable13);
         pTable13.setLayout(pTable13Layout);
         pTable13Layout.setHorizontalGroup(
             pTable13Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 60, Short.MAX_VALUE)
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, pTable13Layout.createSequentialGroup()
+                .addContainerGap(27, Short.MAX_VALUE)
+                .addComponent(jLabel15)
+                .addGap(24, 24, 24))
         );
         pTable13Layout.setVerticalGroup(
             pTable13Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 60, Short.MAX_VALUE)
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, pTable13Layout.createSequentialGroup()
+                .addContainerGap(24, Short.MAX_VALUE)
+                .addComponent(jLabel15)
+                .addContainerGap())
         );
 
         getContentPane().add(pTable13, new org.netbeans.lib.awtextra.AbsoluteConstraints(650, 500, -1, -1));
 
         pTable14.setBackground(new java.awt.Color(0, 204, 0));
 
+        jLabel12.setFont(new java.awt.Font("Segoe UI Light", 0, 18)); // NOI18N
+        jLabel12.setText("14");
+
         javax.swing.GroupLayout pTable14Layout = new javax.swing.GroupLayout(pTable14);
         pTable14.setLayout(pTable14Layout);
         pTable14Layout.setHorizontalGroup(
             pTable14Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 60, Short.MAX_VALUE)
+            .addGroup(pTable14Layout.createSequentialGroup()
+                .addGap(26, 26, 26)
+                .addComponent(jLabel12)
+                .addContainerGap(25, Short.MAX_VALUE))
         );
         pTable14Layout.setVerticalGroup(
             pTable14Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 60, Short.MAX_VALUE)
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, pTable14Layout.createSequentialGroup()
+                .addContainerGap(24, Short.MAX_VALUE)
+                .addComponent(jLabel12)
+                .addContainerGap())
         );
 
         getContentPane().add(pTable14, new org.netbeans.lib.awtextra.AbsoluteConstraints(800, 500, -1, -1));
 
         pTable15.setBackground(new java.awt.Color(0, 204, 0));
 
+        jLabel9.setFont(new java.awt.Font("Segoe UI Light", 0, 18)); // NOI18N
+        jLabel9.setText("15");
+
         javax.swing.GroupLayout pTable15Layout = new javax.swing.GroupLayout(pTable15);
         pTable15.setLayout(pTable15Layout);
         pTable15Layout.setHorizontalGroup(
             pTable15Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 60, Short.MAX_VALUE)
+            .addGroup(pTable15Layout.createSequentialGroup()
+                .addGap(24, 24, 24)
+                .addComponent(jLabel9)
+                .addContainerGap(27, Short.MAX_VALUE))
         );
         pTable15Layout.setVerticalGroup(
             pTable15Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 60, Short.MAX_VALUE)
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, pTable15Layout.createSequentialGroup()
+                .addContainerGap(24, Short.MAX_VALUE)
+                .addComponent(jLabel9)
+                .addContainerGap())
         );
 
         getContentPane().add(pTable15, new org.netbeans.lib.awtextra.AbsoluteConstraints(950, 500, -1, -1));
 
         pTable16.setBackground(new java.awt.Color(0, 204, 0));
 
+        jLabel20.setFont(new java.awt.Font("Segoe UI Light", 0, 18)); // NOI18N
+        jLabel20.setText("16");
+
         javax.swing.GroupLayout pTable16Layout = new javax.swing.GroupLayout(pTable16);
         pTable16.setLayout(pTable16Layout);
         pTable16Layout.setHorizontalGroup(
             pTable16Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 60, Short.MAX_VALUE)
+            .addGroup(pTable16Layout.createSequentialGroup()
+                .addGap(24, 24, 24)
+                .addComponent(jLabel20)
+                .addContainerGap(18, Short.MAX_VALUE))
         );
         pTable16Layout.setVerticalGroup(
             pTable16Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 60, Short.MAX_VALUE)
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, pTable16Layout.createSequentialGroup()
+                .addContainerGap(24, Short.MAX_VALUE)
+                .addComponent(jLabel20)
+                .addContainerGap())
         );
 
         getContentPane().add(pTable16, new org.netbeans.lib.awtextra.AbsoluteConstraints(360, 620, 60, 60));
 
         pTable17.setBackground(new java.awt.Color(0, 204, 0));
 
+        jLabel19.setFont(new java.awt.Font("Segoe UI Light", 0, 18)); // NOI18N
+        jLabel19.setText("17");
+
         javax.swing.GroupLayout pTable17Layout = new javax.swing.GroupLayout(pTable17);
         pTable17.setLayout(pTable17Layout);
         pTable17Layout.setHorizontalGroup(
             pTable17Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 60, Short.MAX_VALUE)
+            .addGroup(pTable17Layout.createSequentialGroup()
+                .addGap(26, 26, 26)
+                .addComponent(jLabel19)
+                .addContainerGap(25, Short.MAX_VALUE))
         );
         pTable17Layout.setVerticalGroup(
             pTable17Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 60, Short.MAX_VALUE)
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, pTable17Layout.createSequentialGroup()
+                .addContainerGap(24, Short.MAX_VALUE)
+                .addComponent(jLabel19)
+                .addContainerGap())
         );
 
         getContentPane().add(pTable17, new org.netbeans.lib.awtextra.AbsoluteConstraints(510, 620, -1, -1));
 
         pTable18.setBackground(new java.awt.Color(0, 204, 0));
 
+        jLabel16.setFont(new java.awt.Font("Segoe UI Light", 0, 18)); // NOI18N
+        jLabel16.setText("18");
+
         javax.swing.GroupLayout pTable18Layout = new javax.swing.GroupLayout(pTable18);
         pTable18.setLayout(pTable18Layout);
         pTable18Layout.setHorizontalGroup(
             pTable18Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 60, Short.MAX_VALUE)
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, pTable18Layout.createSequentialGroup()
+                .addContainerGap(27, Short.MAX_VALUE)
+                .addComponent(jLabel16)
+                .addGap(24, 24, 24))
         );
         pTable18Layout.setVerticalGroup(
             pTable18Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 60, Short.MAX_VALUE)
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, pTable18Layout.createSequentialGroup()
+                .addContainerGap(24, Short.MAX_VALUE)
+                .addComponent(jLabel16)
+                .addContainerGap())
         );
 
         getContentPane().add(pTable18, new org.netbeans.lib.awtextra.AbsoluteConstraints(650, 620, -1, -1));
 
         pTable19.setBackground(new java.awt.Color(0, 204, 0));
 
+        jLabel11.setFont(new java.awt.Font("Segoe UI Light", 0, 18)); // NOI18N
+        jLabel11.setText("19");
+
         javax.swing.GroupLayout pTable19Layout = new javax.swing.GroupLayout(pTable19);
         pTable19.setLayout(pTable19Layout);
         pTable19Layout.setHorizontalGroup(
             pTable19Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 60, Short.MAX_VALUE)
+            .addGroup(pTable19Layout.createSequentialGroup()
+                .addGap(26, 26, 26)
+                .addComponent(jLabel11)
+                .addContainerGap(25, Short.MAX_VALUE))
         );
         pTable19Layout.setVerticalGroup(
             pTable19Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 60, Short.MAX_VALUE)
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, pTable19Layout.createSequentialGroup()
+                .addContainerGap(24, Short.MAX_VALUE)
+                .addComponent(jLabel11)
+                .addContainerGap())
         );
 
         getContentPane().add(pTable19, new org.netbeans.lib.awtextra.AbsoluteConstraints(800, 620, -1, -1));
 
         pTable20.setBackground(new java.awt.Color(0, 204, 0));
 
+        jLabel10.setFont(new java.awt.Font("Segoe UI Light", 0, 18)); // NOI18N
+        jLabel10.setText("20");
+
         javax.swing.GroupLayout pTable20Layout = new javax.swing.GroupLayout(pTable20);
         pTable20.setLayout(pTable20Layout);
         pTable20Layout.setHorizontalGroup(
             pTable20Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 60, Short.MAX_VALUE)
+            .addGroup(pTable20Layout.createSequentialGroup()
+                .addGap(25, 25, 25)
+                .addComponent(jLabel10)
+                .addContainerGap(26, Short.MAX_VALUE))
         );
         pTable20Layout.setVerticalGroup(
             pTable20Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 60, Short.MAX_VALUE)
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, pTable20Layout.createSequentialGroup()
+                .addContainerGap(24, Short.MAX_VALUE)
+                .addComponent(jLabel10)
+                .addContainerGap())
         );
 
         getContentPane().add(pTable20, new org.netbeans.lib.awtextra.AbsoluteConstraints(950, 620, -1, -1));
@@ -771,8 +971,28 @@ public class Table extends javax.swing.JFrame {
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JPanel background;
+    private javax.swing.JLabel jLabel1;
+    private javax.swing.JLabel jLabel10;
+    private javax.swing.JLabel jLabel11;
+    private javax.swing.JLabel jLabel12;
+    private javax.swing.JLabel jLabel13;
+    private javax.swing.JLabel jLabel14;
+    private javax.swing.JLabel jLabel15;
+    private javax.swing.JLabel jLabel16;
+    private javax.swing.JLabel jLabel17;
+    private javax.swing.JLabel jLabel18;
+    private javax.swing.JLabel jLabel19;
     private javax.swing.JLabel jLabel2;
+    private javax.swing.JLabel jLabel20;
+    private javax.swing.JLabel jLabel21;
+    private javax.swing.JLabel jLabel22;
     private javax.swing.JLabel jLabel3;
+    private javax.swing.JLabel jLabel4;
+    private javax.swing.JLabel jLabel5;
+    private javax.swing.JLabel jLabel6;
+    private javax.swing.JLabel jLabel7;
+    private javax.swing.JLabel jLabel8;
+    private javax.swing.JLabel jLabel9;
     private javax.swing.JPanel jPanel1;
     private javax.swing.JPanel jPanel10;
     private javax.swing.JPanel jPanel11;
