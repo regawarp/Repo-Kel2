@@ -510,6 +510,11 @@
                 <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
                   <Color blue="ff" green="ff" red="ff" type="rgb"/>
                 </Property>
+=======
+                <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                  <Image iconType="3" name="/foodcourt/images/icons8_Back_25px.png"/>
+                </Property>
+>>>>>>> ca331d1aa00296f8d48c658202d28f024c3e9eaf
                 <Property name="text" type="java.lang.String" value="  Back"/>
                 <Property name="autoscrolls" type="boolean" value="true"/>
               </Properties>
@@ -590,7 +595,7 @@
             <Component class="javax.swing.JLabel" name="jLabel4">
               <Properties>
                 <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                  <Image iconType="3" name="/swing/images/Untitled-2.png"/>
+                  <Image iconType="3" name="/foodcourt/images/Untitled-2.png"/>
                 </Property>
                 <Property name="text" type="java.lang.String" value="jLabel4"/>
               </Properties>

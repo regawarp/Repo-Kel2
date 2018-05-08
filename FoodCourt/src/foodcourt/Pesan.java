@@ -255,6 +255,7 @@ public class Pesan extends javax.swing.JFrame {
 
         btn_exit.setFont(new java.awt.Font("Tahoma", 0, 24)); // NOI18N
         btn_exit.setForeground(new java.awt.Color(255, 255, 255));
+        btn_exit.setIcon(new javax.swing.ImageIcon(getClass().getResource("/foodcourt/images/icons8_Back_25px.png"))); // NOI18N
         btn_exit.setText("  Back");
         btn_exit.setAutoscrolls(true);
         btn_exit.addMouseListener(new java.awt.event.MouseAdapter() {
@@ -307,7 +308,7 @@ public class Pesan extends javax.swing.JFrame {
         jPanel3.setBackground(new java.awt.Color(51, 51, 51));
         jPanel3.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
-        jLabel4.setIcon(new javax.swing.ImageIcon(getClass().getResource("/swing/images/Untitled-2.png"))); // NOI18N
+        jLabel4.setIcon(new javax.swing.ImageIcon(getClass().getResource("/foodcourt/images/Untitled-2.png"))); // NOI18N
         jLabel4.setText("jLabel4");
         jPanel3.add(jLabel4, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, -1, -1));
 

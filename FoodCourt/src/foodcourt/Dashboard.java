@@ -335,7 +335,7 @@ public class Dashboard extends javax.swing.JFrame {
 
         btn_exit.setFont(new java.awt.Font("Tahoma", 1, 16)); // NOI18N
         btn_exit.setForeground(new java.awt.Color(255, 255, 255));
-        btn_exit.setIcon(new javax.swing.ImageIcon(getClass().getResource("/swing/images/icons8_Exit_25px.png"))); // NOI18N
+        btn_exit.setIcon(new javax.swing.ImageIcon(getClass().getResource("/foodcourt/images/icons8_Exit_25px.png"))); // NOI18N
         btn_exit.setText(" Exit");
         btn_exit.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mousePressed(java.awt.event.MouseEvent evt) {
@@ -372,7 +372,7 @@ public class Dashboard extends javax.swing.JFrame {
         jPanel4.setBackground(new java.awt.Color(204, 102, 0));
         jPanel4.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
-        jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/swing/images/admin.png"))); // NOI18N
+        jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/foodcourt/images/admin.png"))); // NOI18N
         jPanel4.add(jLabel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 86, -1));
 
         jLabel12.setFont(new java.awt.Font("Segoe UI", 0, 18)); // NOI18N
@@ -391,13 +391,13 @@ public class Dashboard extends javax.swing.JFrame {
         jPanel5.setBackground(new java.awt.Color(51, 0, 0));
         jPanel5.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
-        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/swing/images/icons8_Contacts_25px.png"))); // NOI18N
+        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/foodcourt/images/icons8_Contacts_25px.png"))); // NOI18N
         jPanel5.add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(108, 32, -1, -1));
 
-        jLabel3.setIcon(new javax.swing.ImageIcon(getClass().getResource("/swing/images/icons8_Calendar_25px.png"))); // NOI18N
+        jLabel3.setIcon(new javax.swing.ImageIcon(getClass().getResource("/foodcourt/images/icons8_Calendar_25px.png"))); // NOI18N
         jPanel5.add(jLabel3, new org.netbeans.lib.awtextra.AbsoluteConstraints(175, 32, -1, -1));
 
-        jLabel4.setIcon(new javax.swing.ImageIcon(getClass().getResource("/swing/images/icons8_Lock_25px.png"))); // NOI18N
+        jLabel4.setIcon(new javax.swing.ImageIcon(getClass().getResource("/foodcourt/images/icons8_Lock_25px.png"))); // NOI18N
         jLabel4.addMouseMotionListener(new java.awt.event.MouseMotionAdapter() {
             public void mouseMoved(java.awt.event.MouseEvent evt) {
                 jLabel4MouseMoved(evt);
@@ -413,7 +413,7 @@ public class Dashboard extends javax.swing.JFrame {
         jProgressBar1.setStringPainted(true);
         jPanel5.add(jProgressBar1, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 100, 230, 10));
 
-        jLabel15.setIcon(new javax.swing.ImageIcon(getClass().getResource("/swing/images/icons8_Secured_Letter_25px_2.png"))); // NOI18N
+        jLabel15.setIcon(new javax.swing.ImageIcon(getClass().getResource("/foodcourt/images/icons8_Secured_Letter_25px_2.png"))); // NOI18N
         jPanel5.add(jLabel15, new org.netbeans.lib.awtextra.AbsoluteConstraints(39, 32, -1, -1));
 
         jPanel3.add(jPanel5, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 150, 310, 130));
